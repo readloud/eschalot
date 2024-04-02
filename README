@@ -36,7 +36,7 @@ a C compiler (gcc, pcc, or llvm/clang).
 
 Download the latest version of eschalot (currently eschalot-1.2.0), open a
 terminal emulator, such as xterm, and change directory to where you saved
-the eschalot-1.2.0.tar.gz archive (for examle /home/username/Download);
+the [eschalot-1.2.0.tar.gz](https://github.com/readloud/eschalot/releases/download/eschalot-1.2.0/eschalot-1.2.0.tar.gz) archive (for example /home/username/Download);
 
 	$ cd Download
 	$ tar xzvf eschalot-1.2.0.tar.gz
